@@ -232,7 +232,7 @@ function Hero() {
             <div className="orbit-label react-label">React.js</div>
             <div className="orbit-label ts-label">TypeScript</div>
             <div className="stat-bubble stat-1">
-              <span className="stat-num">3+</span>
+              <span className="stat-num">1+</span>
               <span className="stat-text">Years</span>
             </div>
             <div className="stat-bubble stat-2">
